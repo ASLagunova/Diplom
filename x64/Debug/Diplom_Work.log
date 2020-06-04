@@ -1,0 +1,3 @@
+﻿  SaportFoo.cpp
+c:\users\aeganov\source\repos\alexandereganov\diplomwork_lagunova\saportfoo.cpp(122): warning C4715: 'ListStrInFiles': not all control paths return a value
+  Diplom_Work.vcxproj -> C:\Users\AEganov\Source\Repos\AlexanderEganov\DiplomWork_Lagunova\x64\Debug\Diplom_Work.exe
